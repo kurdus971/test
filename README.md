@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html> 
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport"
+  content="width=device-width,initial-scale=1.0">
+  <title>salsabil</title>
+  <style>
+  .custom-button  { 
+    position: absolute;
+    top: 400px;
+   left: 800px;
+   width: 200px;
+   height: 50px;
+   border-radius: 25px;
+   background-color: blue;
+   color: cornsilk;
+   border: 1px;
+   font-size: medium;
+   font: icon;
+   cursor: progress;
+   }
+          
+  </style>
+<body>
+      <button
+  class="custom-button">اظغط هنا لكي زينب تربح مليار</button>
+</body> 
+</html>
